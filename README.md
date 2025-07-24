@@ -1,5 +1,5 @@
 # Practical-Application-1: UC Berkeley Haas ML/AI Program  - Will the Customer Accept the Coupon?
-
+Jupyter Notebook Link: [https://drive.google.com/file/d/1iwX8FqmUYq5mA1SZ5XPCT47za2HhRUqZ/view?usp=sharing](https://drive.google.com/file/d/1iwX8FqmUYq5mA1SZ5XPCT47za2HhRUqZ/view?usp=sharing)
 
 ## Bar Coupon Findings
 
