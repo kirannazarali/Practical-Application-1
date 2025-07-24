@@ -1,12 +1,11 @@
-# Practical-Application-1
-UC Berkeley Haas ML/AI Program  -  Practical Application 1: Will the Customer Accept the Coupon?
+# Practical-Application-1: UC Berkeley Haas ML/AI Program  - Will the Customer Accept the Coupon?
 
 
 ## Bar Coupon Findings
 
 ### Finding 1 
 Going to the bar frequently each month (e.g. >3 time/month) increases bar coupon acceptance rate.
-
+![plot](images/bar_coupon_finding1.png)
 
 ### Finding 2
 Among those that go to the bar at least 1 time per month, being either under 25 or over 20 years results in around a 70% bar coupon acceptance rate. 
