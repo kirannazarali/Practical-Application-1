@@ -60,7 +60,10 @@ Jupyter Notebook Link: [https://drive.google.com/file/d/1iwX8FqmUYq5mA1SZ5XPCT47
 
 #### For students, their coupon acceptance rate is higher if Coffee House Coupon Location is less than 25 min away or less than 15 min away.
 <p align="left">
-  <img src="images/coffeehouse_coupon_finding6.png" width="600">
+  <img src="images/coffeehouse_coupon_finding6a.png" width="600">
+</p>
+<p align="left">
+  <img src="images/coffeehouse_coupon_finding6b.png" width="600">
 </p>
 
 ## Actionable Items and Recommendations
