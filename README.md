@@ -69,8 +69,8 @@ Jupyter Notebook Link: [https://drive.google.com/file/d/1iwX8FqmUYq5mA1SZ5XPCT47
 ## Actionable Items and Recommendations
 Based on the conditions where the Coffee House coupon acceptance rate is higher, here are the following recommendations:
 
-- It is advised to focus on focusing on drivers who visit a Coffee House at least once a month or identify regular customers.
-- Since the acceptance rate is higher at 10 AM and when passengers are Friend(s), advertisements could be scheduled around that time on holidays and weekends, or times when it is likely to have friend passengers.
-- Coffee House advertisements should have an expiration of 1 day or 2 hours.
-- To target more students, coupons should be given for coffee shops near by less than 15 min. or 25 min.
+- It is advised to target drivers who visit a Coffee House at least once a month or identify regular customers.
+- Since the acceptance rate is higher at 10 AM and when passengers are Friend(s), coupons could be released around 10 AM, on holidays and weekends, or times when it is likely to have friend passengers.
+- Coffee House coupons should have an expiration of 1 day or 2 hours.
+- To target more students, coupons should be given for coffee shops nearby less than 15 min. or 25 min.
 
