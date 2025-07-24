@@ -40,9 +40,12 @@ Jupyter Notebook Link: [https://drive.google.com/file/d/1iwX8FqmUYq5mA1SZ5XPCT47
 </p>
 
 
-#### Drivers who had Friend(s) as passengers has a 15% higher acceptance than that of all others
+#### Drivers who had Friend(s) as passengers have around a 15% higher acceptance than that of all others
 <p align="left">
-  <img src="images/coffeehouse_coupon_finding3.png" width="600">
+  <img src="images/coffeehouse_coupon_finding3a.png" width="600">
+</p>
+<p align="left">
+  <img src="images/coffeehouse_coupon_finding3b.png" width="600">
 </p>
 
 #### Expiration of 1 day had around 15% higher acceptance than that of all others
@@ -50,7 +53,7 @@ Jupyter Notebook Link: [https://drive.google.com/file/d/1iwX8FqmUYq5mA1SZ5XPCT47
   <img src="images/coffeehouse_coupon_finding4.png" width="600">
 </p>
 
-#### Drivers that visit the coffee house >=1 time/month have 30% higher acceptance than that of all others. Those that visit 1-3 times/month have 20% higher acceptance rate.
+#### Drivers that visit the coffee house >=1 time/month have around 30% higher acceptance than that of all others. Those that visit 1-3 times/month have around 20% higher acceptance rate.
 <p align="left">
   <img src="images/coffeehouse_coupon_finding5.png" width="600">
 </p>
